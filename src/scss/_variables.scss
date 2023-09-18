@@ -1,0 +1,49 @@
+// FONTS
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;500;600;700&display=swap');
+
+$font-family-sans-serif:  'Montserrat', sans-serif;
+$font-weight-lighter:         100;
+$font-weight-light:           200;
+$font-weight-normal:          400;
+$font-weight-medium:          500;
+$font-weight-semibold:        600;
+$font-weight-bold:            700;
+
+// COLORS
+
+$blue:    #6DB0FF;
+$indigo:  #706DFF;
+$purple:  #AD6DFF;
+$pink:    #FF6D75;
+$red:     #D63D46;
+$orange:  #FFA26D;
+$yellow:  #FFE86D;
+$green:   #489F46;
+$teal:    #6DFFC2;
+$cyan:    #6DE5FF;
+
+$white:    #fff;
+$gray-100: #2121211a;
+$gray-200: #21212133;
+$gray-300: #2121214d;
+$gray-400: #21212166;
+$gray-500: #21212180;
+$gray-600: #21212199;
+$gray-700: #212121b3;
+$gray-800: #212121cc;
+$gray-900: #212121e6;
+$black:    #212121;
+
+$primary:       $pink;
+$secondary:     $red;
+$success:       $green;
+$info:          $cyan;
+$warning:       $yellow;
+$danger:        $red;
+$light:         $gray-100;
+$dark:          $gray-900;
+
+$body-text-align:           null;
+$body-color:                $black;
+
+$box-shadow:                  0px 4px 4px 0px rgba(0, 0, 0, 0.25);
